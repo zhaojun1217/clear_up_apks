@@ -6,9 +6,11 @@
     遍历某目录的下的三级目录，并查找指定名称文件，复制到指定文件夹
     
     
-    
+---
+
 需求的目录结构为
 
+```
 android_apk
           hlpq  // 一级目录
               release // 二级目录
@@ -25,3 +27,5 @@ android_apk
           wbpq
               release
                      xxx-xxx-xxx.apk
+```
+
