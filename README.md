@@ -29,3 +29,6 @@ android_apk
                      xxx-xxx-xxx.apk
 ```
 
+![在这里插入图片描述](https://github.com/zhaojun1217/clear_up_apks/blob/master/image/11111.jpeg)
+
+![在这里插入图片描述](https://github.com/zhaojun1217/clear_up_apks/blob/master/image/22222.jpeg)
